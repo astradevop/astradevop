@@ -8,13 +8,13 @@
 **Full-Stack Learner · Python · Django · React**  
 Building a web-first **NeoBanking** platform 🚀
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" />
+<a href="https://github.com/astradevop?tab=followers">
+  <img src="https://img.shields.io/github/followers/astradevop?label=Followers&style=flat-square" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" />
+<a href="https://github.com/astradevop">
+  <img src="https://komarev.com/ghpvc/?username=astradevop&style=flat-square" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/aakash-s-nair/">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" />
 </a>
 
