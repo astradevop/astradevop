@@ -37,18 +37,7 @@ Building a web-first **NeoBanking** platform 🚀
 - 💳 **Accounts & Cards** → modular apps (`users`, `accounts`, `transactions`, `cards`)
 - 📊 **Dashboard** → transactions, insights (planned)
 
-**Live/Docs**
-- Backend: `https://YOUR_BACKEND_HOST/` (Django/DRF)
-- Frontend: `https://YOUR_FRONTEND_HOST/` (React/Netlify/Vercel)
-- Project board: `https://github.com/YOUR_GITHUB_USERNAME/neobanking/projects/1`
 
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/neobanking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=neobanking&theme=transparent" alt="NeoBanking pin" />
-  </a>
-</p>
-
----
 
 ## 🧰 Tech I’m working with
 <p>
