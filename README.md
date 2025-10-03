@@ -4,7 +4,7 @@
 <!-- HEADER -->
 <div align="center">
   
-# 👋 Hey, I'm KANNAN  
+# 👋 Hey, I'm AKASH S NAIR  
 **Full-Stack Learner · Python · Django · React**  
 Building a web-first **NeoBanking** platform 🚀
 
