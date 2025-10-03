@@ -52,6 +52,3 @@ Building a web-first **NeoBanking** platform 🚀
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"></a>
 </p>
 
----
-
-## 🗂️ Repo Map (current plan)
