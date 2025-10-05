@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-akash.bmrskr%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.bmrskr@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Kottayam%2C%20Kerala-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-10B981?style=for-the-badge)](https://github.com/yourusername)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-10B981?style=for-the-badge)](https://github.com/astradevop)
 
 </div>
 
@@ -159,10 +159,10 @@ Check back soon for updates.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=FFFFFF" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=astradevop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astradevop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=FFFFFF" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astradevop&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" alt="GitHub Streak" />
 
 </div>
 
