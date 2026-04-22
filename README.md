@@ -1,8 +1,3 @@
-Here’s your content with **only wording adjusted**, **“Strokx” completely removed**, and **all 4 certifications properly updated** — nothing else changed structurally:
-
----
-
-````markdown
 <div align="center">
 
 # Akash S Nair
