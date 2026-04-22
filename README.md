@@ -95,9 +95,6 @@ I like building products where the backend is not just "the API", but the core s
 
 ## Experience
 
-**Full Stack Developer**
-Developed a premium airport car wash and parking system using Django REST Framework and React. Worked on parking slot management, booking flows, automated billing logic, and administrative control features for operations and revenue tracking.
-
 **Full Stack Developer Intern - SMEC Technologies**
 Worked across Django, Flask, React, Tailwind CSS, MySQL, and MongoDB. Built REST APIs, implemented JWT authentication, translated Figma designs into functional UI, optimized queries, and maintained structured Git workflows.
 
